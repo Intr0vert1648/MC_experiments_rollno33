@@ -1,0 +1,60 @@
+com.yassineabou.calculator.app-lifecycle-viewmodel-ktx-2.6.1-0 C:\Users\Jash Damania\.gradle\caches\transforms-3\02b2fe2d945e97b1d06c78174ecee915\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.yassineabou.calculator.app-room-ktx-2.5.2-1 C:\Users\Jash Damania\.gradle\caches\transforms-3\0943010825dd1a763dbbb733d3454872\transformed\room-ktx-2.5.2\res
+com.yassineabou.calculator.app-lifecycle-process-2.6.1-2 C:\Users\Jash Damania\.gradle\caches\transforms-3\09c79c71862542749dd3ebff63af34e5\transformed\lifecycle-process-2.6.1\res
+com.yassineabou.calculator.app-navigation-fragment-ktx-2.6.0-3 C:\Users\Jash Damania\.gradle\caches\transforms-3\11ff5b5b600ea68a734e4fa070059a36\transformed\navigation-fragment-ktx-2.6.0\res
+com.yassineabou.calculator.app-core-1.10.1-4 C:\Users\Jash Damania\.gradle\caches\transforms-3\17cf0ecb03bfa49fe4d6a7bc2e699f65\transformed\core-1.10.1\res
+com.yassineabou.calculator.app-lifecycle-livedata-core-ktx-2.6.1-5 C:\Users\Jash Damania\.gradle\caches\transforms-3\1df87781bf68800e9b1e443deebe3988\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.yassineabou.calculator.app-appcompat-resources-1.6.1-6 C:\Users\Jash Damania\.gradle\caches\transforms-3\2202234f172cb94765f9b3f79002b045\transformed\appcompat-resources-1.6.1\res
+com.yassineabou.calculator.app-navigation-common-2.6.0-7 C:\Users\Jash Damania\.gradle\caches\transforms-3\259d7258b641636bc01e55ff144f0477\transformed\navigation-common-2.6.0\res
+com.yassineabou.calculator.app-lifecycle-livedata-core-2.6.1-8 C:\Users\Jash Damania\.gradle\caches\transforms-3\2659d653ff7225cec625997903280bd9\transformed\lifecycle-livedata-core-2.6.1\res
+com.yassineabou.calculator.app-activity-1.6.1-9 C:\Users\Jash Damania\.gradle\caches\transforms-3\28f19d72c303860fcc49438ef9d45dca\transformed\activity-1.6.1\res
+com.yassineabou.calculator.app-core-ktx-1.10.1-10 C:\Users\Jash Damania\.gradle\caches\transforms-3\2c99690b30f37a21af64c5e430660a50\transformed\core-ktx-1.10.1\res
+com.yassineabou.calculator.app-databinding-runtime-8.0.2-11 C:\Users\Jash Damania\.gradle\caches\transforms-3\2f45544d95cc00e7f17e044b637be8c4\transformed\databinding-runtime-8.0.2\res
+com.yassineabou.calculator.app-ssp-android-1.1.0-12 C:\Users\Jash Damania\.gradle\caches\transforms-3\31fe6cabefd789360f8478ed9cf5f2cb\transformed\ssp-android-1.1.0\res
+com.yassineabou.calculator.app-fragment-1.6.0-13 C:\Users\Jash Damania\.gradle\caches\transforms-3\380668d116aae66c8410fe98e1eff96f\transformed\fragment-1.6.0\res
+com.yassineabou.calculator.app-appcompat-1.6.1-14 C:\Users\Jash Damania\.gradle\caches\transforms-3\3e1cd3cbf80e56527276afe5a72a9584\transformed\appcompat-1.6.1\res
+com.yassineabou.calculator.app-sdp-android-1.1.0-15 C:\Users\Jash Damania\.gradle\caches\transforms-3\40d151f31270fb19753f72f4a7c1ff97\transformed\sdp-android-1.1.0\res
+com.yassineabou.calculator.app-navigation-ui-ktx-2.6.0-16 C:\Users\Jash Damania\.gradle\caches\transforms-3\421a7362a1f3ccee1c8b1fe7e3db311b\transformed\navigation-ui-ktx-2.6.0\res
+com.yassineabou.calculator.app-viewpager2-1.0.0-17 C:\Users\Jash Damania\.gradle\caches\transforms-3\4981dce93197947ca9b1a734c6ec6057\transformed\viewpager2-1.0.0\res
+com.yassineabou.calculator.app-profileinstaller-1.3.0-18 C:\Users\Jash Damania\.gradle\caches\transforms-3\599d191179e28c249e46854fd31d3acb\transformed\profileinstaller-1.3.0\res
+com.yassineabou.calculator.app-lifecycle-viewmodel-savedstate-2.6.1-19 C:\Users\Jash Damania\.gradle\caches\transforms-3\5a93fa9cc8ec43ed07bdda12dcf90e59\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.yassineabou.calculator.app-savedstate-1.2.1-20 C:\Users\Jash Damania\.gradle\caches\transforms-3\6095c2ae8b8fd30126200c4f22e45fc7\transformed\savedstate-1.2.1\res
+com.yassineabou.calculator.app-emoji2-views-helper-1.2.0-21 C:\Users\Jash Damania\.gradle\caches\transforms-3\68e5148b0efc929e7e0af2b9d1f124b4\transformed\emoji2-views-helper-1.2.0\res
+com.yassineabou.calculator.app-databinding-adapters-8.0.2-22 C:\Users\Jash Damania\.gradle\caches\transforms-3\6c168d78378812ffd70362f817b611a5\transformed\databinding-adapters-8.0.2\res
+com.yassineabou.calculator.app-annotation-experimental-1.3.0-23 C:\Users\Jash Damania\.gradle\caches\transforms-3\6c8a1eb06f491cf3bde0f57aa8a31c2a\transformed\annotation-experimental-1.3.0\res
+com.yassineabou.calculator.app-transition-1.4.1-24 C:\Users\Jash Damania\.gradle\caches\transforms-3\70b829dac2e87697b2d1d5bdedb6bcb5\transformed\transition-1.4.1\res
+com.yassineabou.calculator.app-navigation-common-ktx-2.6.0-25 C:\Users\Jash Damania\.gradle\caches\transforms-3\73ddbb089a698cd360db0856d8ee3e49\transformed\navigation-common-ktx-2.6.0\res
+com.yassineabou.calculator.app-navigation-runtime-2.6.0-26 C:\Users\Jash Damania\.gradle\caches\transforms-3\74308b8e7b4e9564494850179cf7ac28\transformed\navigation-runtime-2.6.0\res
+com.yassineabou.calculator.app-coordinatorlayout-1.1.0-27 C:\Users\Jash Damania\.gradle\caches\transforms-3\7519e2947c88f20b769e7284d2eb0f04\transformed\coordinatorlayout-1.1.0\res
+com.yassineabou.calculator.app-navigation-fragment-2.6.0-28 C:\Users\Jash Damania\.gradle\caches\transforms-3\76b075abbd3549f04ba370d000c263e5\transformed\navigation-fragment-2.6.0\res
+com.yassineabou.calculator.app-media-1.0.0-29 C:\Users\Jash Damania\.gradle\caches\transforms-3\80d21608d0e480c55deb22e85821743c\transformed\media-1.0.0\res
+com.yassineabou.calculator.app-fragment-ktx-1.6.0-30 C:\Users\Jash Damania\.gradle\caches\transforms-3\855a81b7ff2601bb356f6a1e47ec5f33\transformed\fragment-ktx-1.6.0\res
+com.yassineabou.calculator.app-material-1.9.0-31 C:\Users\Jash Damania\.gradle\caches\transforms-3\871745d57a892dd23ef9ed183ad8c515\transformed\material-1.9.0\res
+com.yassineabou.calculator.app-cardview-1.0.0-32 C:\Users\Jash Damania\.gradle\caches\transforms-3\89e2ee7fd6df9403ee820178d8680050\transformed\cardview-1.0.0\res
+com.yassineabou.calculator.app-startup-runtime-1.1.1-33 C:\Users\Jash Damania\.gradle\caches\transforms-3\8b36429ef98ab7b8b0b9242a9ad1532e\transformed\startup-runtime-1.1.1\res
+com.yassineabou.calculator.app-sqlite-framework-2.3.1-34 C:\Users\Jash Damania\.gradle\caches\transforms-3\8c99b5e1623e413b81e9502b603d0cf6\transformed\sqlite-framework-2.3.1\res
+com.yassineabou.calculator.app-constraintlayout-2.1.4-35 C:\Users\Jash Damania\.gradle\caches\transforms-3\a11fb45b607c1b510fca41ee3a9e99fe\transformed\constraintlayout-2.1.4\res
+com.yassineabou.calculator.app-lifecycle-viewmodel-2.6.1-36 C:\Users\Jash Damania\.gradle\caches\transforms-3\a41d01fd5341f1143f9db17318b84029\transformed\lifecycle-viewmodel-2.6.1\res
+com.yassineabou.calculator.app-navigation-runtime-ktx-2.6.0-37 C:\Users\Jash Damania\.gradle\caches\transforms-3\a525814768b5223653b9238fa8945cd2\transformed\navigation-runtime-ktx-2.6.0\res
+com.yassineabou.calculator.app-navigation-ui-2.6.0-38 C:\Users\Jash Damania\.gradle\caches\transforms-3\a53fdda85a95f3386ae4b2c1abb37f42\transformed\navigation-ui-2.6.0\res
+com.yassineabou.calculator.app-recyclerview-1.1.0-39 C:\Users\Jash Damania\.gradle\caches\transforms-3\a6f88c5dc092dc023de314a97f9e01a8\transformed\recyclerview-1.1.0\res
+com.yassineabou.calculator.app-activity-ktx-1.6.1-40 C:\Users\Jash Damania\.gradle\caches\transforms-3\adb29b8a5b86ad989c017019de2aee65\transformed\activity-ktx-1.6.1\res
+com.yassineabou.calculator.app-savedstate-ktx-1.2.1-41 C:\Users\Jash Damania\.gradle\caches\transforms-3\b58c2d6392fe3d5a2c23c25e4c974711\transformed\savedstate-ktx-1.2.1\res
+com.yassineabou.calculator.app-lifecycle-service-2.6.1-42 C:\Users\Jash Damania\.gradle\caches\transforms-3\bbe12e635341562c429ddd55ba0b5678\transformed\lifecycle-service-2.6.1\res
+com.yassineabou.calculator.app-room-runtime-2.5.2-43 C:\Users\Jash Damania\.gradle\caches\transforms-3\c40e913357b9020a3d5a7352d9561df0\transformed\room-runtime-2.5.2\res
+com.yassineabou.calculator.app-sqlite-2.3.1-44 C:\Users\Jash Damania\.gradle\caches\transforms-3\c5cde488cb6308b04172c38fd6c7aad8\transformed\sqlite-2.3.1\res
+com.yassineabou.calculator.app-window-1.0.0-45 C:\Users\Jash Damania\.gradle\caches\transforms-3\d042806e6a6721996ec277b8731c3159\transformed\window-1.0.0\res
+com.yassineabou.calculator.app-emoji2-1.2.0-46 C:\Users\Jash Damania\.gradle\caches\transforms-3\e0ebd00f0f417a0eab5690ec2237c425\transformed\emoji2-1.2.0\res
+com.yassineabou.calculator.app-core-runtime-2.2.0-47 C:\Users\Jash Damania\.gradle\caches\transforms-3\e356469071c75c3487bb0cf8df419fba\transformed\core-runtime-2.2.0\res
+com.yassineabou.calculator.app-lifecycle-livedata-2.6.1-48 C:\Users\Jash Damania\.gradle\caches\transforms-3\ee4247a801007bd36a030563df9e6967\transformed\lifecycle-livedata-2.6.1\res
+com.yassineabou.calculator.app-lifecycle-runtime-ktx-2.6.1-49 C:\Users\Jash Damania\.gradle\caches\transforms-3\f37a1691152969cbb12d02ac77ca0012\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.yassineabou.calculator.app-slidingpanelayout-1.2.0-50 C:\Users\Jash Damania\.gradle\caches\transforms-3\f39ff55d0251815c9f7c5d1232decaeb\transformed\slidingpanelayout-1.2.0\res
+com.yassineabou.calculator.app-lifecycle-runtime-2.6.1-51 C:\Users\Jash Damania\.gradle\caches\transforms-3\fcbe421c3a81e54099261b426d59dfc5\transformed\lifecycle-runtime-2.6.1\res
+com.yassineabou.calculator.app-drawerlayout-1.1.1-52 C:\Users\Jash Damania\.gradle\caches\transforms-3\fd31b4ba30743f4211e0c1facac74e0f\transformed\drawerlayout-1.1.1\res
+com.yassineabou.calculator.app-pngs-53 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\build\generated\res\pngs\debug
+com.yassineabou.calculator.app-resValues-54 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\build\generated\res\resValues\debug
+com.yassineabou.calculator.app-packageDebugResources-55 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.yassineabou.calculator.app-packageDebugResources-56 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.yassineabou.calculator.app-merged_res-57 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\build\intermediates\merged_res\debug
+com.yassineabou.calculator.app-debug-58 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\src\debug\res
+com.yassineabou.calculator.app-main-59 D:\MC_experiments_rollno33\EXP-04 EMI CALCULATOR\app\src\main\res

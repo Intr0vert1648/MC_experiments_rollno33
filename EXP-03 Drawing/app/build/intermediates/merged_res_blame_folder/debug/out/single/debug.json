@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_download.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_undo.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_undo.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_refresh.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_redo.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_redo.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_size.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_size.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/drawable_ic_color.xml.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/drawable/ic_color.xml"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "io.ak1.drawboxsample.app-merged_res-57:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "io.ak1.drawboxsample.app-main-59:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

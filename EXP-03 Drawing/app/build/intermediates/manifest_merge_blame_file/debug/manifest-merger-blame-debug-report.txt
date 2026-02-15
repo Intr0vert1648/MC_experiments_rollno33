@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.ak1.drawboxsample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission
+11-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:3:5-5:38
+12        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+12-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:4:9-65
+13        android:maxSdkVersion="28" />
+13-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:5:9-35
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="io.ak1.drawboxsample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="io.ak1.drawboxsample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:7:5-24:19
+22        android:allowBackup="true"
+22-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:8:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\394815bd00e903c4107b60d16bd5acca\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:9:9-43
+26        android:label="@string/app_name"
+26-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:10:9-41
+27        android:roundIcon="@mipmap/ic_launcher"
+27-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:11:9-48
+28        android:supportsRtl="true"
+28-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:12:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.DrawBox" >
+30-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:13:9-45
+31        <activity
+31-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:14:9-23:20
+32            android:name="io.ak1.drawboxsample.MainActivity"
+32-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:15:13-41
+33            android:exported="true"
+33-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:16:13-36
+34            android:theme="@style/Theme.DrawBox.NoActionBar" >
+34-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:17:13-61
+35            <intent-filter>
+35-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:18:13-22:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:19:17-69
+36-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:19:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:21:17-77
+38-->D:\MC_experiments_rollno33\EXP-02 Drawing\app\src\main\AndroidManifest.xml:21:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Jash Damania\.gradle\caches\transforms-3\75710196714549913ae8e2c19110207e\transformed\jetified-ui-tooling-1.3.3\AndroidManifest.xml:23:9-25:39
+42            android:name="androidx.compose.ui.tooling.PreviewActivity"
+42-->[androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Jash Damania\.gradle\caches\transforms-3\75710196714549913ae8e2c19110207e\transformed\jetified-ui-tooling-1.3.3\AndroidManifest.xml:24:13-71
+43            android:exported="true" />
+43-->[androidx.compose.ui:ui-tooling:1.3.3] C:\Users\Jash Damania\.gradle\caches\transforms-3\75710196714549913ae8e2c19110207e\transformed\jetified-ui-tooling-1.3.3\AndroidManifest.xml:25:13-36
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+47            android:authorities="io.ak1.drawboxsample.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\7bb513d48c4f7a381dbe4cdfec48d8bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jash Damania\.gradle\caches\transforms-3\a64e24d15d439799f5ad6e0182f5e1da\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jash Damania\.gradle\caches\transforms-3\a64e24d15d439799f5ad6e0182f5e1da\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jash Damania\.gradle\caches\transforms-3\a64e24d15d439799f5ad6e0182f5e1da\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+56                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+56-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+57                android:value="androidx.startup" />
+57-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+58        </provider>
+59
+60        <receiver
+60-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+61            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+61-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+62            android:directBootAware="false"
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+63            android:enabled="true"
+63-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+64            android:exported="true"
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+65            android:permission="android.permission.DUMP" >
+65-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+66            <intent-filter>
+66-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+67                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+67-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+68            </intent-filter>
+69            <intent-filter>
+69-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+70                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+70-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+70-->[androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\Jash Damania\.gradle\caches\transforms-3\67d32476fa49d140d7d6553c545fae80\transformed\jetified-profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
+71            </intent-filter>
+72        </receiver>
+73    </application>
+74
+75</manifest>

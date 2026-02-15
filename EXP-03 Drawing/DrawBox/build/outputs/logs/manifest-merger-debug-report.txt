@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml:2:1-4:12
+uses-sdk
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		ADDED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
+		INJECTED from D:\MC_experiments_rollno33\EXP-02 Drawing\drawbox\src\main\AndroidManifest.xml
